@@ -1,0 +1,18 @@
+# Release assets are uploaded to GitHub Releases, not committed.
+*.pyz
+*.pyz.sha256
+
+# Never publish local source, research, outreach, or generated artifacts here.
+plan_reviewer/
+protocol/
+schemas/
+skill/
+tests/
+docs/
+outreach/
+OUTREACH.md
+paper_draft*
+.plan-reviewer/
+__pycache__/
+*.pyc
+.DS_Store

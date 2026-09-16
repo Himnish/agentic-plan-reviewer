@@ -1,0 +1,10 @@
+{
+  "name": "Agentic Plan Reviewer",
+  "repository": "Himnish/agentic-plan-reviewer",
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "asset": "plan-reviewer.pyz",
+  "sha256": "34e0f53c4936f0887a867596334f6e99a805c6258bbe76e1e0af9c967194aa5d",
+  "source_in_repository": false,
+  "local_artifact_is_inspectable": true
+}
